@@ -1,5 +1,5 @@
 # 🙋🏻‍♂️ Sobre Mim
-Olá seja vem vindo! 🤙🏻<br><br>Estou organizando meu github ainda, pretendo adicionar meus projetos e criar minha própria biblioteca web.<br>
+Olá seja vem vindo! 🤙🏻<br><br>Estou organizando meu github ainda, pretendo adicionar meus projetos em breve!!! <br>
 
 
 ## 🌐 Redes Sociais
