@@ -1,5 +1,5 @@
 # 🙋🏻‍♂️ Sobre Mim
-Olá seja bem vindo! 🤙🏻<br><br>Estou organizando meu github ainda, pretendo adicionar meus projetos em breve!!! <br>
+Olá seja bem vindo! 🤙🏻
 
 
 ## 🌐 Redes Sociais
