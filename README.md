@@ -25,7 +25,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevLuanFagioni&theme=onedark&hide_border=false" width="48%" height="180em" > 
   <br><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuanFagioni&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  width="48%"  height="180em" >  
-   <img src="https://user-images.githubusercontent.com/101909254/215365230-96a15880-2243-4f8c-9b2a-69063af1608d.gif" width="48%" height="180em" style="border: 2px solid #ffffff" >
+   <img src="https://user-images.githubusercontent.com/101909254/215365230-96a15880-2243-4f8c-9b2a-69063af1608d.gif" width="48%" height="180em" >
 </div>
 
 ---
