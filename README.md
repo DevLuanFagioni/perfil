@@ -16,9 +16,8 @@ https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&log
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevLuanFagioni&theme=onedark&hide_border=false" width="48%" height="180em" > 
   <br><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuanFagioni&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  width="48%"  height="180em" >  
-   <img src="https://user-images.githubusercontent.com/101909254/215365007-6eaf6d77-8fa9-44be-a104-90341b46a373.gif" width="48%" height="180em" >
+   <img src="https://user-images.githubusercontent.com/101909254/215365230-96a15880-2243-4f8c-9b2a-69063af1608d.gif" width="48%" height="180em" >
 </div>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevLuanFagioni&icon=0&color=5)](https://visitcount.itsvg.in)
