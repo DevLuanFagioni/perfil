@@ -5,9 +5,9 @@
 # 📊 GitHub Stats:
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=DevLuanFagioni&theme=onedark&hide_border=false&include_all_commits=true&count_private=false" width="48%" >  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevLuanFagioni&theme=onedark&hide_border=false" width="48%" >  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuanFagioni&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" >  
+  <img src="https://github-readme-stats.vercel.app/api?username=DevLuanFagioni&theme=onedark&hide_border=false&include_all_commits=true&count_private=false" width="48%"  height="180em" >  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevLuanFagioni&theme=onedark&hide_border=false" width="48%" height="180em" >  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuanFagioni&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%" height="180em" >  
 </div>
 
 ---
