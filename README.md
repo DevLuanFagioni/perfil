@@ -13,9 +13,10 @@ https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&log
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=DevLuanFagioni&theme=onedark&hide_border=false&include_all_commits=true&count_private=false" width="48%" height="180em" >  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevLuanFagioni&theme=onedark&hide_border=false" width="48%" height="180em" >  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuanFagioni&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  width="55%"  height="180em" >  
-   <img src="https://user-images.githubusercontent.com/101909254/215365007-6eaf6d77-8fa9-44be-a104-90341b46a373.gif" width="40%" height="180em" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevLuanFagioni&theme=onedark&hide_border=false" width="48%" height="180em" > 
+  <br><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuanFagioni&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  width="50%"  height="180em" >  
+   <img src="https://user-images.githubusercontent.com/101909254/215365007-6eaf6d77-8fa9-44be-a104-90341b46a373.gif" width="48%" height="180em" >
 </div>
 
 
