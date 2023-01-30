@@ -4,9 +4,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=DevLuanFagioni&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevLuanFagioni&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuanFagioni&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevLuanFagioni&theme=onedark&hide_border=false&include_all_commits=true&count_private=false" width="48%" >  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevLuanFagioni&theme=onedark&hide_border=false" width="48%" >  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuanFagioni&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" >  
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevLuanFagioni&icon=0&color=5)](https://visitcount.itsvg.in)
