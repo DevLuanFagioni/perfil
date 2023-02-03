@@ -1,6 +1,6 @@
 # 🙋🏻‍♂️ Sobre mim
 
-.....
+Bem vindo aos meus repositorios, aqui irei adicionar meu projetos atuais  e futuros projetos que ainda estou organizando.
 
 # 🌐 Redes sociais:
 
