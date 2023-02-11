@@ -40,6 +40,8 @@
    <img src="https://user-images.githubusercontent.com/101909254/215365230-96a15880-2243-4f8c-9b2a-69063af1608d.gif" width="48%" height="180em" >
 </div>
 
+![snake gif](https://github.com/DevLuanFagioni/DevLuanFagioni/blob/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=DevLuanFagioni&icon=0&color=5)](https://visitcount.itsvg.in)
 
