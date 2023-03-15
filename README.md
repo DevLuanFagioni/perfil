@@ -1,6 +1,6 @@
 # 🙋🏻‍♂️ Sobre mim
 
-Olá, sou um desenvolvedor front end aqui irei adicionar alguns projetos desenvolvidos e em desenvolvimento.
+Olá, sou um desenvolvedor / educador, aqui irei adicionar alguns projetos desenvolvidos e em desenvolvimento.
 
 # 🌐 Redes sociais:
 
