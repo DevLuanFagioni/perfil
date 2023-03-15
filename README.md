@@ -5,10 +5,10 @@ Olá, sou um desenvolvedor / educador, aqui irei adicionar alguns projetos desen
 # 🌐 Redes sociais:
 
 <div>
-    <a href="https://www.instagram.com/luan_fagioni/">
+    <a href="https://www.instagram.com/luan_fagioni/" target="_blank" >
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
     </a>
-    <a href="https://www.linkedin.com/in/luanfagioni/">
+    <a href="https://www.linkedin.com/in/luanfagioni/" target="_blank" >
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
     </a>
 </div>
