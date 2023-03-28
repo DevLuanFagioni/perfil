@@ -38,7 +38,5 @@ Olá, sou um desenvolvedor / educador, aqui irei adicionar alguns projetos desen
 
 ![snake gif](https://github.com/DevLuanFagioni/DevLuanFagioni/blob/output/github-contribution-grid-snake.svg)
 
----
-[![](https://visitcount.itsvg.in/api?id=DevLuanFagioni&icon=0&color=5)](https://visitcount.itsvg.in)
 
 
