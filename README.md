@@ -1,40 +1,37 @@
-# 🙋🏻‍♂️ Sobre mim
+```js
+import Desenvolvedor from 'DevLuanFagioni';
 
-Olá, sou um desenvolvedor / educador, aqui irei adicionar alguns projetos desenvolvidos e em desenvolvimento.
+class SobreMim extends Desenvolvedor {
+  nome     = 'Luan Fagioni';
+  area    = 'Front-end';
+  trabalho  = 'CPDI';
+  curso = 'Ciencia da computação';
+}
 
-# 🌐 Redes sociais:
+class Skills extends Desenvolvedor {
+  linguagens  = ['...'];
+  bibliotecas  = ['...'];
+  frameworks = ['...'];
+}
+```
 
-<div>
-    <a href="https://www.instagram.com/luan_fagioni/" target="_blank" >
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
-    </a>
-    <a href="https://www.linkedin.com/in/luanfagioni/" target="_blank" >
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
-    </a>
-</div>
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-# 💻 Minhas Skills:
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-<div>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" >
-    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" >
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" >
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" >
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" >
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" >
-    <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" >
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" >
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" >
-</div>
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
 
-# 👨🏻‍🎓 Status do Github:
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevLuanFagioni&theme=onedark&hide_border=false" width="48%" height="180em" > 
-   <img src="https://user-images.githubusercontent.com/101909254/215365230-96a15880-2243-4f8c-9b2a-69063af1608d.gif" width="48%" height="180em" >
-</div>
 
 ![snake gif](https://github.com/DevLuanFagioni/DevLuanFagioni/blob/output/github-contribution-grid-snake.svg)
 
