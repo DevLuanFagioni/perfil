@@ -2,16 +2,15 @@
 import Desenvolvedor from 'DevLuanFagioni';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Luan Fagioni';
-  area    = 'Front-end';
-  trabalho  = 'CPDI';
+  nome = 'Luan Fagioni';
+  area = 'Front-end';
+  trabalho = 'CPDI';
   curso = 'Ciencia da computação';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['...'];
-  bibliotecas  = ['...'];
-  frameworks = ['...'];
+  linguagens  = ['Html, Css, JavaScript, Lua'];
+  conhecimentos  = ['Sass, Pug, Bootstrap, Solar2d, Figma, Parcel, Git'];
 }
 ```
 
