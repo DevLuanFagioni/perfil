@@ -2,9 +2,9 @@
 import Desenvolvedor from 'DevLuanFagioni';
 
 class SobreMim extends Desenvolvedor {
-  nome = 'Luan Fagioni';
+  nome = 'Luan Costa Fagioni De Souza';
   descricao = 'Desenvolvedor apaixonado por tecnologia e educação';
-  area = 'Professor';
+  area = 'Professor de tecnologia';
   trabalho = 'Comite para democratização da informatica';
   graduando = 'Ciencia da computação';
 }
