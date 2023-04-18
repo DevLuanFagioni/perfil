@@ -12,6 +12,7 @@ class SobreMim extends Desenvolvedor {
 class Skills extends Desenvolvedor {
   linguagens  = ['Html, Css, JavaScript, Lua'];
   conhecimentos  = ['Sass, Pug, Bootstrap, Solar2d, Figma, Parcel, Git'];
+  estudando = [ 'JavaScript, React, TypeScript'];
 }
 ```
 
