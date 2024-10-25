@@ -4,19 +4,34 @@
 <hr>
 <br> 
 
-<div>
-  <span> 
-    <h2>Sobre mim!</h2>
-    <p>Sou um desenvolvedor front-end e professor a 4 anos, <br>
-      estou graduando em ciência da computação e ministro cursos <br>
-      com enfase em dar oportunidade para pessoas no mundo da programação <br>
-      atualmente estou focado em melhorar meus conhecimentos em front-end <br>
-      e back-end utilizando python, nodejs e banco de dados.
-    </p>
-  </span>
-  
-  <span >
-    <img width="300" src="https://github.com/user-attachments/assets/bd360931-1cf1-433c-be84-510055721214" alt="">
-  </span>
-</div>  
+<div align="right">
+  ![gif](https://github.com/user-attachments/assets/bdfaf6bd-26ff-4444-9da4-8e6d288c88d6)
+</div>
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
+
+<p align="left"> 
+  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
+
+<p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+</p>
 
