@@ -13,21 +13,51 @@
 
 <p align="left">
   🥇 <strong>Skills:</strong> <br>
-  <img height="32" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt=""/>
-  <img height="32" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt=""/>
+  <img height="32" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="js"/>
+  <img height="32" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react"/>
+  <img height="32" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript"/>
+  <img height="32" src="" alt=""/>
+  <img height="32" src="" alt=""/>
+   <img height="32" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="next"/>
+  <img height="32" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm"/>
   <img height="32" src="" alt=""/>
   <img height="32" src="" alt=""/>
   <img height="32" src="" alt=""/>
   <img height="32" src="" alt=""/>
+  <img height="32" src="" alt=""/>
+  <img height="32" src="" alt=""/>
+  <img height="32" src="" alt=""/>
+  <img height="32" src="" alt=""/>
+  <img height="32" src="" alt=""/>
+
 
 </p>
 
 <p align="left">
-  Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  🥇 <strong>Ferramentas:</strong> <br>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
 </p>
 
 <p align="left">
-  Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  🥇 <strong>Estudando:</strong> <br>
+    <img height="32" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express"/>
+    <img height="32" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodejs"/>
+    <img height="32" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="jest"/>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
+    <img height="32" src="" alt=""/>
 </p>
 
 <p align="left">
