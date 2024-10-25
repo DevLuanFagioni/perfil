@@ -11,8 +11,9 @@
   Professor de programação e graduando em ciência da computação.
 </p>
 
-<h2 align="left">
-  Skills <br>
+<p align="left">
+  Skills: <br>
+  <br>
   <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
@@ -25,11 +26,11 @@
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>
-</h2>
+</p>
 
-<h2 align="left">
+<p align="left">
   ## Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</h2>
+</p>
 
 <p align="left">
   💌 Fique a vontade de entrar em contato comigo: ⤵️
