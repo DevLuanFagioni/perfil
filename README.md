@@ -14,4 +14,6 @@
   </p>
 </div>
 
-![gif](https://github.com/user-attachments/assets/bd360931-1cf1-433c-be84-510055721214)
+<div align="right">
+  <img width="300" src="https://github.com/user-attachments/assets/bd360931-1cf1-433c-be84-510055721214" alt="">
+</div>
