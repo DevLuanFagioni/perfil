@@ -4,10 +4,7 @@
 <hr>
 <br> 
 
-<div align="right">
-  ![gif](https://github.com/user-attachments/assets/bdfaf6bd-26ff-4444-9da4-8e6d288c88d6)
-</div>
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
 
 <p align="left"> 
   Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
