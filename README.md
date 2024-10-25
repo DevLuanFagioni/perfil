@@ -7,20 +7,20 @@
 <img src="https://github.com/user-attachments/assets/8e4e1a2b-d994-44c5-8ca7-a9c060b8b299" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right"> 
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá sou o Luan, densenvolvedor front-enb e futuro <strong>fullStack</strong>.<br>
+  Professor de programação e graduando em ciência da computação.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  ## Linguagens: **Coloque as linguagens que você desenvolve.**
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  ## Ferramentas: **Coloque as suas ferramentas de trabalho.**
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Fique a vontade de entrar em contato comigo: ⤵️
 </p>
 
 <p align="left">
