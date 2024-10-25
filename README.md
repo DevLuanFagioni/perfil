@@ -4,9 +4,7 @@
 <hr>
 <br> 
 
-https://github.com/user-attachments/assets/8e4e1a2b-d994-44c5-8ca7-a9c060b8b299
-
-<img src="https://github.com/user-attachments/assets/8e4e1a2b-d994-44c5-8ca7-a9c060b8b299" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
+<img src="https://github.com/user-attachments/assets/8e4e1a2b-d994-44c5-8ca7-a9c060b8b299" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right"> 
 
 <p align="left"> 
   Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
