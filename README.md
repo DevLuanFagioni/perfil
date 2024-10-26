@@ -69,4 +69,6 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </p>
 
-![Cópia de Banner para Linkedin Tecnologia em Preto](https://github.com/user-attachments/assets/ab4e9958-d758-437d-9b4d-e6ef32ea8521)
+![banner ondas](https://github.com/user-attachments/assets/8938bd43-3a92-4761-b681-4483cdaa8949)
+
+
